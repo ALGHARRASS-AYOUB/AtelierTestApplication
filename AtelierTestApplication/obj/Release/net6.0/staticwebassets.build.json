@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7uaZzWLXr+Y9Rkhm4wyE/JEK4EdxI18vWClZ8U/+7FU=",
+  "Hash": "53n2csPM0domyrwtpTmPlLRFZuXr2JuBGirM0AUa8Ms=",
   "Source": "AtelierTestApplication",
   "BasePath": "_content/AtelierTestApplication",
   "Mode": "Default",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\hpi52\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.9\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\hpi52\\source\\repos\\ASP projects\\tp_presentations\\AtelierTestApplication\\AtelierTestApplication\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AtelierTestApplication.styles.css",
+      "Identity": "C:\\Users\\hpi52\\source\\repos\\ASP projects\\tp_presentations\\AtelierTestApplication\\AtelierTestApplication\\obj\\Release\\net6.0\\scopedcss\\bundle\\AtelierTestApplication.styles.css",
       "SourceId": "AtelierTestApplication",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\hpi52\\source\\repos\\ASP projects\\tp_presentations\\AtelierTestApplication\\AtelierTestApplication\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\hpi52\\source\\repos\\ASP projects\\tp_presentations\\AtelierTestApplication\\AtelierTestApplication\\obj\\Release\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AtelierTestApplication",
       "RelativePath": "AtelierTestApplication.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\hpi52\\source\\repos\\ASP projects\\tp_presentations\\AtelierTestApplication\\AtelierTestApplication\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AtelierTestApplication.styles.css"
+      "OriginalItemSpec": "C:\\Users\\hpi52\\source\\repos\\ASP projects\\tp_presentations\\AtelierTestApplication\\AtelierTestApplication\\obj\\Release\\net6.0\\scopedcss\\bundle\\AtelierTestApplication.styles.css"
     },
     {
-      "Identity": "C:\\Users\\hpi52\\source\\repos\\ASP projects\\tp_presentations\\AtelierTestApplication\\AtelierTestApplication\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AtelierTestApplication.bundle.scp.css",
+      "Identity": "C:\\Users\\hpi52\\source\\repos\\ASP projects\\tp_presentations\\AtelierTestApplication\\AtelierTestApplication\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\AtelierTestApplication.bundle.scp.css",
       "SourceId": "AtelierTestApplication",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\hpi52\\source\\repos\\ASP projects\\tp_presentations\\AtelierTestApplication\\AtelierTestApplication\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\hpi52\\source\\repos\\ASP projects\\tp_presentations\\AtelierTestApplication\\AtelierTestApplication\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AtelierTestApplication",
       "RelativePath": "AtelierTestApplication.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,7 +1068,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\hpi52\\source\\repos\\ASP projects\\tp_presentations\\AtelierTestApplication\\AtelierTestApplication\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AtelierTestApplication.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\hpi52\\source\\repos\\ASP projects\\tp_presentations\\AtelierTestApplication\\AtelierTestApplication\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\AtelierTestApplication.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\hpi52\\source\\repos\\ASP projects\\tp_presentations\\AtelierTestApplication\\AtelierTestApplication\\wwwroot\\css\\site.css",
